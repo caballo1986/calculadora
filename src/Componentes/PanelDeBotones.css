@@ -1,6 +1,6 @@
 .component-button-panel {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: wrap;
     flex: 1 0 auto;
     background: #858694;
